@@ -44,8 +44,8 @@ function Home() {
       </div>
       <div className="mt-4 grid grid-cols-2 gap-x-96" >
         <div className="w-[706px]">
-          <img className="h-44 w-[700px] shadow-lg shadow-gray-400 mb-2.5  " src=".\src\assets\chart1.png" alt="" />
-          <img className="h-44 w-[700px] shadow-lg shadow-gray-400  " src=".\src\assets\chart2.png" alt="" />
+          <img className="h-44 w-[700px] shadow-lg shadow-gray-400 mb-2.5  " src="\src\assets\chart1.png" alt="" />
+          <img className="h-44 w-[700px] shadow-lg shadow-gray-400  " src="\src\assets\chart2.png" alt="" />
         </div>
         <div className="h-90 w-50 relative left-18 flex flex-col justify-center items-center shadow-lg shadow-gray-400 ">
           <div className="p-5 border-[25px] rounded-full border-r-amber-600 h-32 w-32 text-blue-900 text-3xl flex justify-center items-center">
